@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "66ABEF0D-AB8F-4F6C-9560-C29EABEFBE93"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7CF5074-29CB-452D-880F-E774BD293879"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-task/Exercises/Exercise-1/DateHelper.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "-dayFromDate:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7DAC5E0-B376-437D-8AAF-74AEC98E3696"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-task/Exercises/Exercise-1/DateHelper.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "-getDayName:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF65E99C-9EC8-4AFB-85CF-66312284F9F4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-task/Exercises/Exercise-1/DateHelper.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "-isDateInThisWeek:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21546BAB-3E6C-41CB-83A4-C1218F7CCCFE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-task/Exercises/Exercise-1/DateHelper.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "-isDateInThisWeek:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3AA46040-8F3F-4B3C-94EC-F46255B24572"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-task/Exercises/Exercise-2/PlayersSeparator.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "-dividePlayersIntoTeams:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79246F7C-78C7-4652-8C81-5CA379D2ADC5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-task/Exercises/Exercise-3/LexicographicallyMinimal.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "-findLexicographicallyMinimalForString1:andString2:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF47772C-2BE4-41A7-BD9A-11419DBA362F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-task/Exercises/Exercise-3/LexicographicallyMinimal.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "-getResultwithString1:andString2:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A3569A5-8614-448C-9608-A8E8FBB77B88"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-task/Exercises/Exercise-4/LevelOrderTraversal.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "LevelOrderTraversalForTree(tree)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D9CCFB6-03D9-4D86-8FA0-FFDB9ADAA563"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-task/Exercises/Exercise-4/LevelOrderTraversal.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "LevelOrderTraversalForTree(tree)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95FD5539-A449-43C1-95AA-B2FD4485FD78"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-taskTests/LevelOrderTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
+            landmarkName = "-test4Nodes1"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "95FD5539-A449-43C1-95AA-B2FD4485FD78 - a923f33480766c72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LevelOrderTests test4Nodes1]"
+                  moduleName = "ios.stage-taskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitrii_sutygin/Programs/Projects/iOS_2021/Task_3/rs.ios.stage-task3/Objc_Task3/ios.stage-taskTests/LevelOrderTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "5490">
+               </Location>
+               <Location
+                  uuid = "95FD5539-A449-43C1-95AA-B2FD4485FD78 - a923f33480766c72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LevelOrderTests test4Nodes1]"
+                  moduleName = "ios.stage-taskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitrii_sutygin/Programs/Projects/iOS_2021/Task_3/rs.ios.stage-task3/Objc_Task3/ios.stage-taskTests/LevelOrderTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "7785">
+               </Location>
+               <Location
+                  uuid = "95FD5539-A449-43C1-95AA-B2FD4485FD78 - a923f33480766c72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LevelOrderTests test4Nodes1]"
+                  moduleName = "ios.stage-taskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitrii_sutygin/Programs/Projects/iOS_2021/Task_3/rs.ios.stage-task3/Objc_Task3/ios.stage-taskTests/LevelOrderTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "9691">
+               </Location>
+               <Location
+                  uuid = "95FD5539-A449-43C1-95AA-B2FD4485FD78 - a923f33480766c72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LevelOrderTests test4Nodes1]"
+                  moduleName = "ios.stage-taskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitrii_sutygin/Programs/Projects/iOS_2021/Task_3/rs.ios.stage-task3/Objc_Task3/ios.stage-taskTests/LevelOrderTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "9802">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F579702D-960F-4B89-B33B-89E0C4D1206D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-taskTests/LevelOrderTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "241"
+            endingLineNumber = "241"
+            landmarkName = "-test4Nodes1"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F579702D-960F-4B89-B33B-89E0C4D1206D - a923f33480766374"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LevelOrderTests test4Nodes1]"
+                  moduleName = "ios.stage-taskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitrii_sutygin/Programs/Projects/iOS_2021/Task_3/rs.ios.stage-task3/Objc_Task3/ios.stage-taskTests/LevelOrderTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "241"
+                  endingLineNumber = "241"
+                  offsetFromSymbolStart = "581">
+               </Location>
+               <Location
+                  uuid = "F579702D-960F-4B89-B33B-89E0C4D1206D - a923f33480766374"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LevelOrderTests test4Nodes1]"
+                  moduleName = "ios.stage-taskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitrii_sutygin/Programs/Projects/iOS_2021/Task_3/rs.ios.stage-task3/Objc_Task3/ios.stage-taskTests/LevelOrderTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "241"
+                  endingLineNumber = "241"
+                  offsetFromSymbolStart = "1908">
+               </Location>
+               <Location
+                  uuid = "F579702D-960F-4B89-B33B-89E0C4D1206D - a923f33480766374"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LevelOrderTests test4Nodes1]"
+                  moduleName = "ios.stage-taskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitrii_sutygin/Programs/Projects/iOS_2021/Task_3/rs.ios.stage-task3/Objc_Task3/ios.stage-taskTests/LevelOrderTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "241"
+                  endingLineNumber = "241"
+                  offsetFromSymbolStart = "3736">
+               </Location>
+               <Location
+                  uuid = "F579702D-960F-4B89-B33B-89E0C4D1206D - a923f33480766374"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LevelOrderTests test4Nodes1]"
+                  moduleName = "ios.stage-taskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitrii_sutygin/Programs/Projects/iOS_2021/Task_3/rs.ios.stage-task3/Objc_Task3/ios.stage-taskTests/LevelOrderTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "241"
+                  endingLineNumber = "241"
+                  offsetFromSymbolStart = "3847">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0A51227-364F-4DDF-970F-45B2D22DD2DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-taskTests/LevelOrderTests.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "280"
+            endingLineNumber = "280"
+            landmarkName = "-test4Nodes1"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F0A51227-364F-4DDF-970F-45B2D22DD2DD - a923f33480779e6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LevelOrderTests test4Nodes1]"
+                  moduleName = "ios.stage-taskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitrii_sutygin/Programs/Projects/iOS_2021/Task_3/rs.ios.stage-task3/Objc_Task3/ios.stage-taskTests/LevelOrderTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "280"
+                  endingLineNumber = "280"
+                  offsetFromSymbolStart = "581">
+               </Location>
+               <Location
+                  uuid = "F0A51227-364F-4DDF-970F-45B2D22DD2DD - a923f33480779e6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LevelOrderTests test4Nodes1]"
+                  moduleName = "ios.stage-taskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitrii_sutygin/Programs/Projects/iOS_2021/Task_3/rs.ios.stage-task3/Objc_Task3/ios.stage-taskTests/LevelOrderTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "280"
+                  endingLineNumber = "280"
+                  offsetFromSymbolStart = "1908">
+               </Location>
+               <Location
+                  uuid = "F0A51227-364F-4DDF-970F-45B2D22DD2DD - a923f33480779e6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LevelOrderTests test4Nodes1]"
+                  moduleName = "ios.stage-taskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitrii_sutygin/Programs/Projects/iOS_2021/Task_3/rs.ios.stage-task3/Objc_Task3/ios.stage-taskTests/LevelOrderTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "280"
+                  endingLineNumber = "280"
+                  offsetFromSymbolStart = "3834">
+               </Location>
+               <Location
+                  uuid = "F0A51227-364F-4DDF-970F-45B2D22DD2DD - a923f33480779e6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[LevelOrderTests test4Nodes1]"
+                  moduleName = "ios.stage-taskTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitrii_sutygin/Programs/Projects/iOS_2021/Task_3/rs.ios.stage-task3/Objc_Task3/ios.stage-taskTests/LevelOrderTests.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "280"
+                  endingLineNumber = "280"
+                  offsetFromSymbolStart = "3945">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD8966EB-8093-46B5-8962-B0876C92C212"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.stage-task/Exercises/Exercise-4/LevelOrderTraversal.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "LevelOrderTraversalForTree(tree)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -157,7 +157,7 @@
 //    └── nil
 
 // test4Nodes3
-     levels = @[
+    levels = @[
         @[
             @1
         ],
@@ -266,7 +266,7 @@
 //       └── nil
 
 // test4Nodes8
-     levels = @[
+    levels = @[
         @[
             @3
         ],
